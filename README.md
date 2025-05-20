@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-Check out my work profile: 
-
-EY-> https://github.com/sean-flynn-ey
-
 <!--
 **sf17490/sf17490** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
